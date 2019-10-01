@@ -1,0 +1,21 @@
+@font-face {
+    font-family: YS Text;
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: local("YS Text Light"),
+    url(https://yastatic.net/islands/_/V3PCI5t9wLQulFhlxmM-nRrX-LM.woff2) format("woff2"),
+    url(https://yastatic.net/islands/_/k6JccBlR5c7Kq8MWbMSi_5IhJFM.woff) format("woff"),
+    url(https://yastatic.net/islands/_/5wkSsTZ03-cA0jf2xc_Qz5GBrPo.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'Yandex Sans';
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Yandex Sans Display Regular'),
+    url('fonts/YandexSansDisplay-Regular.woff2') format('woff2'),
+    url('fonts/YandexSansDisplay-Regular.woff') format('woff'),
+    url('fonts/YandexSansDisplay-Regular.ttf') format('truetype');
+}

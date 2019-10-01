@@ -1,0 +1,49 @@
+.container {
+    padding: 0 25%;
+}
+
+.inner-container {
+    font-family: YS Text, Arial, sans-serif;
+    padding: 0 5% 5%;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.inner-container h1 {
+    font-family: "Yandex Sans", serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.inner-container h2 {
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.text-wrapper ul {
+    padding: 0;
+}
+
+.text-wrapper li {
+    list-style-position: inside;
+}
+
+.text-wrapper li span{
+    margin: -0.5em;
+}
+
+.footer{
+    width: 100%;
+}
+
+.logo{
+    margin-top: 5%;
+}
+
+.row{
+    display: flex;
+}
+
+.row .col{
+    width: 50%;
+}
