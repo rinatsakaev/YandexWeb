@@ -5,19 +5,19 @@
 .inner-container {
     font-family: YS Text, Arial, sans-serif;
     padding: 0 5% 5%;
-    font-size: 14px;
+    font-size: 0.95vw;
     font-weight: 300;
 }
 
 .inner-container h1 {
     font-family: "Yandex Sans", serif;
     font-weight: 500;
-    font-size: 50px;
+    font-size: 3vw;
 }
 
 .inner-container h2 {
     font-weight: 400;
-    font-size: 35px;
+    font-size: 2.5vw;
 }
 
 .text-wrapper ul {
@@ -42,6 +42,7 @@
 
 .row{
     display: flex;
+    justify-content: space-between;
 }
 
 .row .col{
